@@ -1,2 +1,8 @@
 theme: jekyll-theme-minimal
 title: mon arts
+baseurl: ""
+url: "https://mon-arts.github.io/"
+date_format: "%b %-d, %Y"
+header_pages:
+ - binder.html
+ - finance.html
