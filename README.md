@@ -1,4 +1,4 @@
 # mon-arts.github.io
 
-[testing](https://pkmncards.com/)
-more testing
+[binder](https://mon-arts.github.io/binder/)
+[finance](https://mon-arts.github.io/finance/)
