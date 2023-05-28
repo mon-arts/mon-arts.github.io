@@ -78,6 +78,16 @@ img {vertical-align: middle}
 </div>
 
 
+<div>
+  <table>
+    {% for card in site.cards %}
+    <tr>
+      {{ card.name }}
+    </tr>
+    {% endfor %}
+  </table>
+</div>
+
 
 <script>
 var slideIndex = 1;
