@@ -1,5 +1,5 @@
 # mon-arts.github.io
 
-[binder](https://mon-arts.github.io/binder/)
+[full art gallery](https://mon-arts.github.io/full-arts/)
 
-[finance](https://mon-arts.github.io/finance/)
+[komiya gallery](https://mon-arts.github.io/komiya/)
