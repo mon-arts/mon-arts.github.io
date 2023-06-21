@@ -1,4 +1,4 @@
-# mon-arts.github.io
+# Dylan's Binder
 
 [morii gallery](https://mon-arts.github.io/morii/)
 
