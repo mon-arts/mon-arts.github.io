@@ -1,9 +1,5 @@
 # Dylan's Binder
 
-[ito gallery](https://mon-arts.github.io/ito/)
+[Pokemon](https://mon-arts.github.io/pkmn/)
 
-[morii gallery](https://mon-arts.github.io/morii/)
-
-[komiya gallery](https://mon-arts.github.io/komiya/)
-
-[trainer gallery](https://mon-arts.github.io/trainer/)
+[Yu-Gi-Oh!](https://mon-arts.github.io/ygo/)
